@@ -15,7 +15,7 @@
         <div class="container">
             <a class="navbar-brand" href="{{ url('/') }}">
                 <img src="" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
-                Ilham Shubkhi</a>
+                Ilham Shubkhi JAWA</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs
                 target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
